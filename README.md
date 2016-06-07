@@ -1,6 +1,8 @@
 # docker-postgres-italian
 Localized Postgres Docker image based on official images
 
+[![CircleCI](https://circleci.com/gh/lifeisfoo/docker-postgres-italian.svg?style=svg)](https://circleci.com/gh/lifeisfoo/docker-postgres-italian)
+
 ## Supported tags and respective Dockerfile links
 [See TAGS](https://hub.docker.com/r/lifeisfoo/postgres-italian/tags/).
 
